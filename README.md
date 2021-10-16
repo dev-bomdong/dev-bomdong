@@ -1,8 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=a3dbec&height=300&section=header&text={%20dev%20:%20Donghee%20}&fontSize=90&fontColor=242626)
-<h3> 👋 Hi, there  </h1>
+# New Document
+![header](https://capsule-render.vercel.app/api?type=waving&color=9edaed&height=300&section=header&text={%20dev%20:%20Donghee%20}&fontSize=90&fontColor=363737)
 
-I'm Donghee Kim, a growing front-end developer.<br>
-I want to be a flexible person as a developer and a human being.🌊
+<h3> 👋 Hi, there  </h3>
+
+<h4>I'm Donghee Kim, a growing front-end developer.<br>
+I want to be a flexible person as a developer and a human being.🌊</h4>
 
 <br>
 
