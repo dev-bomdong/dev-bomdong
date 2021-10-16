@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=d4f3fc&height=300&section=header&text={%20dev%20:%20Donghee%20}&fontSize=90&fontColor=242626)
+![header](https://capsule-render.vercel.app/api?type=waving&color=a3dbec&height=300&section=header&text={%20dev%20:%20Donghee%20}&fontSize=90&fontColor=242626)
 <h3 align="center"> 👋 Hi, there 👋 </h3>
 <p align="center">
 I'm Donghee Kim, a growing front-end developer.<br>
@@ -17,5 +17,4 @@ I want to be a flexible person as a developer and a human being.🌊
 <img src="https://img.shields.io/badge/Git-black?style=flat-square&logo=Git&logoColor=white"/> 
 <img src="https://img.shields.io/badge/AWS-orange?style=flat-square&logo=Amazon AWS&logoColor=white"/> 
 </p>
-
-
+<br />
