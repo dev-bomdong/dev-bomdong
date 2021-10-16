@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=a3dbec&height=300&section=header&text={%20dev%20:%20Donghee%20}&fontSize=90&fontColor=242626)
-<h1 align="center" style="border-bottom:0"> 👋 Hi, there 👋 </h1>
-<h4 align="center">
+<h3 align="center" > 👋 Hi, there 👋 </h1>
+<h5 align="center">
 I'm Donghee Kim, a growing front-end developer.<br>
 I want to be a flexible person as a developer and a human being.🌊
 </h4>
 <br />
-<h1 align="center" style="border-bottom:0"> ⚙ Technology Stack ⚙ </h1>
+<h3 align="center"> ⚙ Technology Stack ⚙ </h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-red?style=flat-square&logo=HTML5&logoColor=white" style="inline-block"/>
