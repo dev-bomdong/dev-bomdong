@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=a3dbec&height=300&section=header&text={%20dev%20:%20Donghee%20}&fontSize=90&fontColor=242626)
 <h3 align="center"> 👋 Hi, there 👋 </h3>
-<p align="center">
+<h5 align="center">
 I'm Donghee Kim, a growing front-end developer.<br>
 I want to be a flexible person as a developer and a human being.🌊
-</p>
+</h6>
 <br />
 <h3 align="center"> ⚙ Technology Stack ⚙ </h3>
 
