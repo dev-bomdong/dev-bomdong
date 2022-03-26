@@ -16,9 +16,6 @@
 
 ![dev-bomdong's github stats](https://github-readme-stats.vercel.app/api?username=dev-bomdong&show_icons=true)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdev-bomdong&count_bg=%23C6E8FF&title_bg=%23D0D0D0&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://github.com/dev-bomdong)
-
-
 
 
 
