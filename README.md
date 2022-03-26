@@ -1,22 +1,27 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=9edaed&height=300&section=header&text={%20dev%20:%20Donghee%20}&fontSize=90&fontColor=363737)
 
-<h3 align="center"> 👋 Hi, there  </h3>
+# 김동희 <i>Donghee Kim</i> 
+🧑‍💻 Front-end Developer who love to record <br />
+📓 [Blog](https://dev-bomdong.tistory.com/)  |  [Email](mailto:dongdh02076@gmailc.om) 
 
-<h4 align="center">I'm Donghee Kim, a growing front-end developer.<br>
-I want to be a flexible person as a developer and a human being.🌊</h4>
-
-<br>
-
-<h3 align="center"> ⚙ Technology Stack </h3>
-<p align="center">
-<img src="https://img.shields.io/badge/HTML5-red?style=flat-square&logo=HTML5&logoColor=white" style="inline-block"/>
-<img src="https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=CSS3&logoColor=white" style="inline-block"/>
-<img src="https://img.shields.io/badge/JAVASCRIPT-yellow?style=flat-square&logo=Javascript&logoColor=white" style="inline-block"/>
-<img src="https://img.shields.io/badge/REACT-blue?style=flat-square&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/Sass-pink?style=flat-square&logo=Sass&logoColor=white"/>
-<img src="https://img.shields.io/badge/styled--components-pink?style=flat-square&logo=styled-components&logoColor=white"/>
+<p>
+<img src="https://img.shields.io/badge/React-60DCFA?style=flat-square&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/Typescript-235A97?style=flat-square&logo=Typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MobX-DD5C16?style=flat-square&logo=MobX&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
+<img src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-black?style=flat-square&logo=Git&logoColor=white"/> 
-<img src="https://img.shields.io/badge/AWS-orange?style=flat-square&logo=Amazon AWS&logoColor=white"/> 
+<img src="https://img.shields.io/badge/AWS-F79A19?style=flat-square&logo=Amazon AWS&logoColor=white"/> 
 </p>
-<br />
+
+![dev-bomdong's github stats](https://github-readme-stats.vercel.app/api?username=dev-bomdong&show_icons=true)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdev-bomdong&count_bg=%23C6E8FF&title_bg=%23D0D0D0&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://github.com/dev-bomdong)
+
+
+
+
+
+
+
 
