@@ -1,6 +1,6 @@
 
 # 김동희 <i>Donghee Kim</i> 
-🧑‍💻 Front-end Developer who love to record <br />
+🧑‍💻 Front-end Developer who loves to record <br />
 📓 [Blog](https://dev-bomdong.tistory.com/)  |  [Email](mailto:dongdh02076@gmailc.om) 
 
 <p>
