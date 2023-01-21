@@ -1,7 +1,7 @@
 
 # 김동희 <i>Donghee Kim</i> 
 🧑‍💻 Front-end Developer who loves to record <br />
-📓 [Blog](https://dev-bomdong.tistory.com/)  |  [Email](mailto:dongdh02076@gmailc.om) 
+📓 [Blog](https://dev-bomdong.github.io/)  |  [Email](mailto:dongdh02076@gmailc.om) 
 
 <p>
 <img src="https://img.shields.io/badge/React-60DCFA?style=flat-square&logo=React&logoColor=white"/>
